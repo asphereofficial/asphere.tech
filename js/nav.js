@@ -21,3 +21,5 @@ if ($navbarBurgers.length > 0) {
     });
   });
 }
+
+});
